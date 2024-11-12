@@ -1,0 +1,12 @@
+
+body {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  canvas {
+    margin: 10px;
+    background-color: #eee;
+  }
+  
